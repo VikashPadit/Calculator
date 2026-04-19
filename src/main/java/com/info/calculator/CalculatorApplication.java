@@ -5,9 +5,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class CalculatorApplication {
-
-	public static void main(String[] args) {
+x
+	public static void main(String[] args)
+	{
 		SpringApplication.run(CalculatorApplication.class, args);
+		Add twosum=new Add();
+		System.out.println("Result of sum: "+twosum.addTwoNumber(2,3));
+
 	}
 
 }
