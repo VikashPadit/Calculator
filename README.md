@@ -23,3 +23,4 @@ The `Multiplication` class is designed to perform basic arithmetic operations wi
 ### main Method
 The `main(String[] args)` method serves as the entry point of execution. It initializes two integer variables, computes their mathematical product, and outputs the final result directly to the system console.
 >>>>>>> 551eb02321c075c67ae9cd9047e0a524b51ed2fa
+// we want to add some files. 
